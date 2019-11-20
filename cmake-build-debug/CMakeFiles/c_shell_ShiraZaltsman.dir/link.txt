@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/c_shell_ShiraZaltsman.dir/shell.c.o  -o c_shell_ShiraZaltsman 
