@@ -9,8 +9,14 @@
 /home/shira/Desktop/C/c-shell-ShiraZaltsman/shell.c
 stdio.h
 -
+string.h
+-
 stdlib.h
 -
-string.h
-/home/shira/Desktop/C/c-shell-ShiraZaltsman/string.h
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
 
